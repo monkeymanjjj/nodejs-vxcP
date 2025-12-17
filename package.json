@@ -6,7 +6,7 @@
   "author": "jdn",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^5.2.1",
     "socket.io": "^4.7.2"
   },
   "scripts": {
